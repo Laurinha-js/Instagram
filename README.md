@@ -1,8 +1,4 @@
 # Instagram
- Clone instragram 
- Tela de login 
- ![image](https://github.com/Laurinha-js/Instagram/assets/65427284/63ed84b2-0fa9-440c-b509-89364006afa1)
+ Clone das telas de login e cadastro do instragram.
 
- Tela de cadastro
-![image](https://github.com/Laurinha-js/Instagram/assets/65427284/6c4407f6-a43a-44ba-931b-5ea49448b135)
-
+![Design sem nome](https://github.com/Laurinha-js/Instagram/assets/65427284/e80d507f-9804-4e23-a7fe-dd3cea1c7cb0)
